@@ -1,2 +1,3 @@
-# my-configuration
+# My Collective Configs
+
 My "opinion" Configuration
